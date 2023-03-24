@@ -1,2 +1,0 @@
-# ricky
-Popo
